@@ -1,0 +1,6 @@
+[submodule "research/juanyanz-CycleGAN"]
+	path = research/juanyanz-CycleGAN
+	url = git@github.com:junyanz/CycleGAN.git
+[submodule "research/nitwmanish-StyleTransferring-Of-Image-Using-CycleGAN"]
+	path = research/nitwmanish-StyleTransferring-Of-Image-Using-CycleGAN
+	url = git@github.com:nitwmanish/Style-Transferring-Of-Image-Using-CycleGAN.git
